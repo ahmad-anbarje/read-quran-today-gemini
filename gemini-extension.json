@@ -1,0 +1,11 @@
+{
+  "name": "read-quran-today",
+  "version": "1.0.0",
+  "description": "The Holy Quran (Madinah Mushaf, Hafs) for Gemini CLI: the Arabic, 127 translations, the Tafsir al-Muyassar, word-by-word meanings and recitations, from readqurantoday.com.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "read-quran-today": {
+      "httpUrl": "https://readqurantoday.com/mcp"
+    }
+  }
+}
